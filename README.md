@@ -1,1 +1,4 @@
-# learning_git-new-
+# learning_git
+learning_git
+hello
+hi2
